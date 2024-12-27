@@ -1,0 +1,40 @@
+Medicine_ID,Medicine_Name,DID,Medicine_Composition,Medicine_Description
+201,Antifungal cream,0,"clotrimazole, econazole, ketoconazole, miconazole, tioconazole, terbinafine, and amorolfine",a pharmaceutical fungicide or fungistatic used to treat and prevent mycosis
+202,Antifungal liquids,1,"clotrimazole, econazole, ketoconazole, miconazole, tioconazole, terbinafine, and amorolfine",a pharmaceutical fungicide or fungistatic used to treat and prevent mycosis
+203,Antifungal sprays,2,"clotrimazole, econazole, ketoconazole, miconazole, tioconazole, terbinafine, and amorolfine",a pharmaceutical fungicide or fungistatic used to treat and prevent mycosis
+204,Antihistamine,3,"Brompheniramine, Cetirizine, Chlorpheniramine",Antihistamines are drugs which treat allergic rhinitis and other allergies.
+205,antacid,4,"calcium carbonate, magnesium hydroxide, aluminum hydroxide and/or sodium bicarbonate",An antacid is a substance which neutralizes stomach acidity and is used to relieve heartburn
+206,Antidiarrhoeal,5,"chloroform, methanol, and aqueous extracts of Bidens odorata Cav.",An anti-diarrhoeal drug is any medication which provides symptomatic relief for diarrhoea
+207,Proton-pump inhibitor,6,"esomeprazole, lansoprazole, omeprazole, pantoprazole and rabeprazole","a group of medicines that work on the cells that line the stomach, reducing the production of acid"
+208,"Ursodeoxycholic acid (UDCA)
+
+",7,ursodeoxycholic acid,used for the dissolution of cholesterol gallstones.
+204,Antihistamine,8,"Brompheniramine, Cetirizine, Chlorpheniramine",Antihistamines are drugs which treat allergic rhinitis and other allergies.
+210,Steroid,9,"17carbon atom, bonded in 4 fused ring, 3 6-member cyclohexane ring","are chemicals, that your body makes naturally helps your organs, tissues, and cells do their jobs."
+211,Metformin,10,a refined herbal medicine derived from a flower called French lilac,"is the first-line medication for the treatment of type 2 diabetes,"
+212,Sulfonylureas,11,a central S-aryl sulfonylurea structure with a p-substituent on the phenyl ring,antidiabetic drugs widely used in the management of diabetes mellitus type 2
+213,Meglitinides,12,belonging to the meglitinide class of antidiabetic agents with hypoglycemic activity,oral medications used to treat type 2 diabetes to trigger insulin
+214,Thiazolidinediones,13,"potent, synthetic ligands for peroxisome proliferator-activated receptor gamma-? activation",a class of medicines that may be used for the treatment of type 2 diabetes
+215,DPP-4 inhibitors,14,a class of oral hypoglycemics that block the enzyme dipeptidyl peptidase-4,They can be used to treat diabetes mellitus type 2.
+216,GLP-1 receptor agonists,15,30 or 31 amino acid long peptide hormone,are a type of incretin-based medicine for type 2 diabetes.
+217,SGLT2 inhibitors,16,"canagliflozin ,dapagliflozin, empagliflozin",potent antihyperglycemic drugs for patients with type 2 diabetes
+218,Insulin,17,composed of two peptide chains referred to as the A chain and B chain,"It regulates the metabolism of carbohydrates, fats and protein"
+219,Proton pump inhibitors,18,"Prilosec,Prevacid ,Aciphex,Nexium Protonix",reduce stomach acid by blocking the action of the parts of cells that produce acid
+220,Imodium,19,"(loperamide hydrochloride), 4-(p-chlorophenyl)-4-hydroxy-N, N-dimethyl- a",is a medication used to decrease the frequency of diarrhea.
+227,Analgesic,25,Acetaminophen,Acts as a painkiller to treat fever and any pain
+221,"Pepto-Bismol,",26,"flavor, magnesium aluminum silicate, methylcellulose, saccharin sodium",antacid elixir medication used to treat temporary discomforts of the stomach
+222,Albuterol,27,molecular weight of albuterol sulfate is 576.7,"to prevent and treat difficulty breathing, wheezing, shortness of breath, coughing"
+223,Levalbuterol,28,0.31 mg of levalbuterol or 0.63 mg of levalbuterol,short-acting bronchodilator that relaxes muscles in the airways;increases air flow to the lungs
+224,Levalbuterol,29,150 mg of metaproterenol sulfate as a micronized powder in inert propellants,used to treat wheezing and shortness of breath from lung problems
+225,Chloroquine phosphate,30,"500 mg of chloroquine phosphate USP, equivalent to 300 mg chloroquine base.",Chloroquine is the preferred treatment for any parasite that is sensitive to the drug.
+226,Artemisinin-based combination therapies,31,"lumefantrine, mefloquine, amodiaquine, sulfadoxine, piperaquine and chlorproguanil/dapsone.",Each ACT is a combination of two or more drugs that work against the malaria parasite in different ways.
+204,Antihistamine,33,"Brompheniramine, Cetirizine, Chlorpheniramine",Antihistamines are drugs which treat allergic rhinitis and other allergies.
+227,Analgesic,34,Acetaminophen,Acts as a painkiller to treat fever and any pain
+228,Chloramphenicol,35,"2,2-dichloro-N- [(aR,bR)-b-hydroxy-a-hydroxymethyl- 4-nitrophenethyl] acetamide
+",Chloramphenicol is an antibiotic useful for the treatment of a number of bacterial infections.
+229,Penicillin,36,Penicillin 30,Penicillins are a group of antibiotics used to treat a wide range of bacterial infections.
+230,No Medicine,37,,No specific treatment exists for hepatitis A. Your body will clear the hepatitis A virus on its own.
+231,Benazepril (Lotensin),38,carboxyl-containing angiotensin-converting enzyme (ACE) inhibitor,"Relaxes blood vessels, lowers blood pressure and prevents diabetes-related kidney damage 
+"
+232,Acebutolol (Sectral),39,hydrochloride salt of (±)N-[3-Acetyl-4-[2- hydroxy-3-[(1- methylethyl)amino]propoxy]phenyl],Acebutolol is used to treat an irregular heartbeat.
+233,antipsychotics,40,"prochlorperazine, droperidol, haloperidol, and chlorpromazine",effective treatment of acute headaches and refractory chronic daily headache.
